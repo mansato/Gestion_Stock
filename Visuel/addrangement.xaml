@@ -1,0 +1,18 @@
+﻿<Window x:Class="Gestion_Stock.addrangement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gestion_Stock"
+        mc:Ignorable="d"
+        Title="addrangement" Height="195.528" Width="331.626">
+    <Grid Margin="0,0,2,-4">
+        <Label x:Name="label" Content="Créer un nouveau rangements" HorizontalAlignment="Center" Margin="4,10,0,0" VerticalAlignment="Top" FontFamily="SketchFlow Print" FontSize="20" Width="318"/>
+        <Label x:Name="label1" Content="Nom :" HorizontalAlignment="Left" Margin="21,58,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy" Content="Description :" HorizontalAlignment="Left" Margin="21,89,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_nom" HorizontalAlignment="Left" Height="23" Margin="103,60,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="179"/>
+        <TextBox x:Name="textBox_Description" HorizontalAlignment="Left" Height="23" Margin="103,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179"/>
+        <Button x:Name="btnEnregistrerRangement" Content="Enregistrer" HorizontalAlignment="Left" Margin="18,120,0,0" VerticalAlignment="Top" Width="122"/>
+        <Button x:Name="btnAnnulerRangement" Content="Annuler" HorizontalAlignment="Left" Margin="160,120,0,0" VerticalAlignment="Top" Width="122"/>
+    </Grid>
+</Window>

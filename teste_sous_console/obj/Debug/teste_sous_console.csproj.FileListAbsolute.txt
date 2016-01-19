@@ -1,0 +1,10 @@
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\bin\Debug\teste_sous_console.exe.config
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\bin\Debug\teste_sous_console.exe
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\bin\Debug\teste_sous_console.pdb
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\obj\Debug\teste_sous_console.exe
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\obj\Debug\teste_sous_console.pdb
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\bin\Debug\DataLayer.dll
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\bin\Debug\Model.dll
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\bin\Debug\DataLayer.pdb
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\bin\Debug\Model.pdb
+C:\Users\twavresky\Desktop\Gestion_Stock\teste_sous_console\obj\Debug\teste_sous_console.csprojResolveAssemblyReference.cache

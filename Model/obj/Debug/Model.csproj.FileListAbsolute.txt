@@ -1,0 +1,4 @@
+C:\Users\twavresky\Desktop\Gestion_Stock\Model\bin\Debug\Model.dll
+C:\Users\twavresky\Desktop\Gestion_Stock\Model\bin\Debug\Model.pdb
+C:\Users\twavresky\Desktop\Gestion_Stock\Model\obj\Debug\Model.dll
+C:\Users\twavresky\Desktop\Gestion_Stock\Model\obj\Debug\Model.pdb
