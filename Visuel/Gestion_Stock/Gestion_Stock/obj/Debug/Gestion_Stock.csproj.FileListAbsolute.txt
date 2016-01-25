@@ -1,0 +1,44 @@
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\bin\Debug\Gestion_Stock.exe.config
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\bin\Debug\Gestion_Stock.exe
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\bin\Debug\Gestion_Stock.pdb
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.csprojResolveAssemblyReference.cache
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\MainWindow.g.cs
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\App.g.cs
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock_MarkupCompile.cache
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock_MarkupCompile.lref
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\MainWindow.baml
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.g.resources
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.Properties.Resources.resources
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.csproj.GenerateResource.Cache
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.exe
+c:\users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.pdb
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\nouvArticles.g.cs
+C:\Users\cbonfigli\documents\visual studio 2015\Projects\Gestion_Stock\Gestion_Stock\obj\Debug\nouvArticles.baml
+T:\Projet Groupe Stock\v2gestion\Gestion_Stock\Gestion_Stock\bin\Debug\Gestion_Stock.exe.config
+T:\Projet Groupe Stock\v2gestion\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.exe
+T:\Projet Groupe Stock\v2gestion\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.pdb
+C:\Users\mansato\Desktop\Gestion_Stock\Gestion_Stock\bin\Debug\Gestion_Stock.exe.config
+C:\Users\mansato\Desktop\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.exe
+C:\Users\mansato\Desktop\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.pdb
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\bin\Debug\Gestion_Stock.exe.config
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.exe
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.pdb
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\bin\Debug\Gestion_Stock.exe
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\bin\Debug\Gestion_Stock.pdb
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.csprojResolveAssemblyReference.cache
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\addfourni.g.cs
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\addrangement.g.cs
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\AjtFamille.g.cs
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\MainWindow.g.cs
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\nouvArticles.g.cs
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\App.g.cs
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock_MarkupCompile.cache
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock_MarkupCompile.lref
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\addfourni.baml
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\addrangement.baml
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\AjtFamille.baml
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\MainWindow.baml
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\nouvArticles.baml
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.g.resources
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.Properties.Resources.resources
+C:\Users\mansato\Documents\GitHub\Gestion_Stock\Visuel\Gestion_Stock\Gestion_Stock\obj\Debug\Gestion_Stock.csproj.GenerateResource.Cache
